@@ -7,3 +7,4 @@ title: Decisions
     - E.g., "Veientines" becomes "Veii"
 - Keep places in titles and descriptions
     - E.g., Keep "Samos" in "Pythagoras of Samos"
+- Don't woory about generic references to places (e.g., "the city") as long as the place was already identified.

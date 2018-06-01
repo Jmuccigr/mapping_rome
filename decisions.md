@@ -3,8 +3,9 @@ title: Decisions
 ---
 
 - Keep multiple (repeated) references to the same place in the same text
-- Convert references to peoples to places.
+- Provide location data for references to peoples.
     - E.g., "Veientines" becomes "Veii"
+    - Type field becomes "People"
 - Keep places in titles and descriptions
     - E.g., Keep "Samos" in "Pythagoras of Samos"
 - Don't woory about generic references to places (e.g., "the city") as long as the place was already identified.

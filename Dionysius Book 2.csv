@@ -1,0 +1,583 @@
+UUID,QUOTE_TRANSCRIPTION,ANCHOR,TYPE,URI,VOCAB_LABEL,LAT,LNG,PLACE_TYPE,CITATION,RELATIONSHIP,DATE,PRECISE LOCATION
+5b4d0b2c-64a9-4fa1-a312-026f8d7a1b26,Aborigines,char-offset:584,PEOPLE,,,,,,"2,1",,,NO
+5fe6e889-15c7-4179-a4e3-abbba141f14a,Aborigines,char-offset:1169,PEOPLE,,,,,,"2,1",,,NO
+cfad1cca-ef9b-4b88-a84b-942c24d0596a,Achaeans,char-offset:22230,PEOPLE,http://pleiades.stoa.org/places/570028,Achaea/Achaia (region),38.10212147,22.22458591,region,"2,66",,,
+86a132f4-7ea2-4eeb-bcf1-d9c0d3e8702b,Adriatic,char-offset:39753,PLACE,http://pleiades.stoa.org/places/1046,Ionium Mare,39.03244648,19.67486108,water-open,"2,49",,,
+f7841b40-fc4b-4f6e-bb39-f7f50703aed9,Aemilia,char-offset:26272,PERSON,,,,,,"2,68",,,
+f09c230c-0cf2-456e-9ea7-8e3ad9f04391,Aemilia,char-offset:26641,PERSON,,,,,,"2,68",,,
+78af5747-f045-4cbc-bbdd-3c714eb32224,Aeneas,char-offset:2765,PERSON,,,,,,,,,NO
+98975d82-a4c8-4e7a-9cd6-abb27981c922,Aeneas,char-offset:3466,PERSON,,,,,,,,,
+5fa0467e-7dc9-477d-8c1b-4ce3b321d7a9,Aeneas,char-offset:12079,PERSON,,,,,,,,,
+6b8e8c1d-c1df-4075-8586-85ee671156ef,Aeneas,char-offset:21915,PERSON,,,,,,"2,66",,,
+229bd295-af1a-474d-b83e-4bed2443084e,Aeneas,char-offset:22156,PERSON,,,,,,"2,66",,,
+2ac39ed7-256e-456d-8ac7-01ef87e5fd77,Alba,char-offset:17024,PLACE,http://pleiades.stoa.org/places/422824,"Alba Longa?|Alba Longa?, Castel Gandolfo",41.746447,12.65048,settlement,"2,65",,,
+bdf8f9a3-8f35-4740-b299-19a916e61787,Alban,char-offset:2608,PEOPLE,http://pleiades.stoa.org/places/422824,"Alba Longa?|Alba Longa?, Castel Gandolfo",41.746447,12.65048,settlement,"2,2",,,YES
+be1ea78a-579e-4e4d-a450-e7f372db16da,Albans,char-offset:2264,PEOPLE,http://pleiades.stoa.org/places/422824,"Alba Longa?|Alba Longa?, Castel Gandolfo",41.746447,12.65048,settlement,"2,2",,,YES
+abc2dfc4-9b51-495d-ae7e-ba9e6154687f,Albans,char-offset:16122,PEOPLE,http://pleiades.stoa.org/places/422824,"Alba Longa?|Alba Longa?, Castel Gandolfo",41.746447,12.65048,settlement,"2,37",,,
+7acd5bdb-0493-42cf-9d06-f95dedba0d8f,Amiternum,char-offset:39288,PLACE,http://pleiades.stoa.org/places/413013,"Amiternum|Amiternum, San Vittorino Amiterno, L'Aquila",42.402,13.30884,settlement,"2,49",,,
+0659e9b0-b246-43ef-966c-cc2378f3dfe8,Anchises,char-offset:2784,PERSON,,,,,,,,,
+7616acbd-3d8b-475f-b861-87005803c63a,Ancus Marcius,char-offset:48807,PERSON,,,,,,"2,76",,,
+76488181-90fc-4709-b594-d00f168929b5,Antemnae,char-offset:5330,PLACE,http://pleiades.stoa.org/places/422836,"Antemnae|Antemnae, Monte Antenne, Roma",41.937528,12.500656,settlement,"2,32",Enemy,,
+a219c592-53ef-43cc-bdf3-6c041ee6f970,Antemnae,char-offset:13152,PLACE,http://pleiades.stoa.org/places/422836,"Antemnae|Antemnae, Monte Antenne, Roma",41.937528,12.500656,settlement,"2,35",Enemy,,
+77533658-fb62-4fc0-ae47-e7ec22d9b36c,Aphroditê,char-offset:2797,PERSON,,,,,,,,,
+86811ec9-9c30-4b80-b1dc-bb4f95ae864d,Arcadia,char-offset:1027,PLACE,http://pleiades.stoa.org/places/570102,Arcadia,37.56741927,22.1653231,region,"2,1",,,YES
+5027734e-0807-4f67-9556-f5afc25d27bf,Arcadia,char-offset:1694,PLACE,http://pleiades.stoa.org/places/570102,Arcadia,37.56741927,22.1653231,region,"2,1",,,YES
+7c64cc38-e072-4114-badf-0fd4cb09e58d,Arcadia,char-offset:13384,PLACE,http://pleiades.stoa.org/places/570102,Arcadia,37.56741927,22.1653231,region,"2,35",,,
+c8a2d06a-3da6-4d0e-a2b1-8b1fb5714c2a,Arcadian,char-offset:938,PEOPLE,http://pleiades.stoa.org/places/570102,Arcadia,37.56741927,22.1653231,region,"2,1",,,YES
+d008d79b-ab19-44a5-872f-2a19ecbbc565,Arcadian,char-offset:1423,PEOPLE,http://pleiades.stoa.org/places/570102,Arcadia,37.56741927,22.1653231,region,"2,1",,,YES
+a11186cc-0738-473c-aa30-db01e8eb05a6,Arcadian,char-offset:2662,PEOPLE,http://pleiades.stoa.org/places/570102,Arcadia,37.56741927,22.1653231,region,"2,2",,,YES
+3b37cd01-8fce-4ec1-a741-4463d72677b1,Ardea,char-offset:34009,PLACE,http://pleiades.stoa.org/places/422843,"Ardea|Ardea, Ardea",41.61126,12.54968,"settlement,urban","2,72",,,
+77a6e3af-50fb-4631-8348-db3a1644ad33,Ascanius,char-offset:12058,PERSON,,,,,,,,,
+2fe82cfa-84ac-4634-b612-173287c6a302,Ascanius,char-offset:14308,PERSON,,,,,,"2,63",,,
+83129024-1f5f-4f8b-8473-366a6eccb27a,Athenians,char-offset:17200,PEOPLE,http://pleiades.stoa.org/places/579885,"Athenae|Athenae, Athína",37.971687,23.726464,settlement,"2,8",,,YES
+62c76fbe-a260-4d45-b9bf-0d769fe8fcac,Athenians,char-offset:19805,PEOPLE,http://pleiades.stoa.org/places/579885,"Athenae|Athenae, Athína",37.971687,23.726464,settlement,"2,9",,,YES
+2221c366-6ea3-48df-864b-95dcd869938d,Athenians,char-offset:20087,PEOPLE,http://pleiades.stoa.org/places/579885,"Athenae|Athenae, Athína",37.971687,23.726464,settlement,"2,9",,,YES
+dcc4b873-b2e1-4cbf-8410-85c7c851f5ee,Athenians,char-offset:34845,PEOPLE,http://pleiades.stoa.org/places/579885,"Athenae|Athenae, Athína",37.971687,23.726464,settlement,"2,17",,,YES
+e01afef1-a711-4584-9cd5-37bb7242f34c,Athenians,char-offset:35406,PEOPLE,http://pleiades.stoa.org/places/579885,"Athenae|Athenae, Athína",37.971687,23.726464,settlement,"2,17",,,YES
+d2ae07ac-1d66-43b4-b4ea-cbdae3a9370f,Athens,char-offset:17182,PLACE,http://pleiades.stoa.org/places/579885,"Athenae|Athenae, Athína",37.971687,23.726464,settlement,"2,8",,,YES
+8a51a255-c5fa-42c6-bd9e-323a8bb20f1a,Athens,char-offset:50386,PLACE,http://pleiades.stoa.org/places/579885,"Athenae|Athenae, Athína",37.971687,23.726464,settlement,"2,54",,,
+4a32cb75-e4af-4f99-b9f4-011be0bd362d,Aventine,char-offset:15526,PLACE,http://pleiades.stoa.org/places/715215852,Santa Sabina,41.8845877,12.4800791,church,"2,37",,,
+6a93d27d-0b5c-4412-bc75-ee838f520f2c,Caelian,char-offset:41284,PLACE,http://pleiades.stoa.org/places/695491849,Caelius Mons,41.88755098,12.49130078,hill,"2,50",Ally,,
+affd7d01-aade-4168-ac02-54cc2d8a74a7,Caelus,char-offset:38578,PERSON,,,,,,,,,
+06cb3300-b2e2-4dc3-a84d-5141e5f64cee,Caenina,char-offset:5322,PLACE,http://pleiades.stoa.org/places/438703,Caenina,,,unlocated,"2,32",Enemy,,
+c6b0d678-e475-432f-a9ab-763f4b01e51f,Caenina,char-offset:13140,PLACE,http://pleiades.stoa.org/places/438703,Caenina,,,unlocated,"2,35",Enemy,,
+99f56596-c58b-4843-866c-d920479a763e,Caeninenses,char-offset:7342,PEOPLE,http://pleiades.stoa.org/places/438703,Caenina,,,unlocated,"2,33",,,
+e3b35ffb-2af3-4ef9-8dc1-3957b0897ddc,Cameria,char-offset:43468,PLACE,http://pleiades.stoa.org/places/438704,Cameria,,,unlocated,"2,50",,,
+052a7819-6880-4b1c-9c3e-835cb36420f8,Camerini,char-offset:42618,PEOPLE,http://pleiades.stoa.org/places/438704,Cameria,,,unlocated,"2,50",,,
+560bcca1-766b-4606-ba4f-fc9c1de774a9,Camerini,char-offset:42870,PEOPLE,http://pleiades.stoa.org/places/438704,Cameria,,,unlocated,"2,50",,,
+bd6f32e6-6796-411c-9cf7-852d9177fb6a,Camerini,char-offset:43117,PEOPLE,http://pleiades.stoa.org/places/438704,Cameria,,,unlocated,"2,50",,,
+cdbcf666-90b9-4b90-99f6-b85a0ee7433a,Camerini,char-offset:49206,PEOPLE,http://pleiades.stoa.org/places/438704,Cameria,,,unlocated,"2,54",,,
+c0ee1c18-e230-42ed-8c2f-14722c36cef8,Camerini,char-offset:49378,PEOPLE,http://pleiades.stoa.org/places/438704,Cameria,,,unlocated,"2,54",,,
+4cbb0119-412d-4649-a5fd-23def972d7ab,Cannae,char-offset:36451,PLACE,http://pleiades.stoa.org/places/442523,"Cannae|Cannae, Monte di Canne, Barletta",41.296496,16.15132,settlement,"2,17",,,YES
+ac96c5a5-6941-4252-9f98-d5a994fdb75a,Capitoline,char-offset:2044,PLACE,http://pleiades.stoa.org/places/347036492,Capitolinus Mons,41.8925778,12.4822154,hill,"2,1",,,YES
+ff63924d-dbc5-4c4f-93c3-caedf0c2057d,Capitoline,char-offset:17791,PLACE,http://pleiades.stoa.org/places/347036492,Capitolinus Mons,41.8925778,12.4822154,hill,"2,38",,,
+72427ee9-a481-4acf-a234-a28850d0895b,Capitoline,char-offset:18232,PLACE,http://pleiades.stoa.org/places/347036492,Capitolinus Mons,41.8925778,12.4822154,hill,"2,38",,,
+32bf2d0c-1243-40da-bf8b-8f602744dcf7,Capitoline,char-offset:27835,PLACE,http://pleiades.stoa.org/places/347036492,Capitolinus Mons,41.8925778,12.4822154,hill,"2,43",,,
+254c3458-e198-404e-be15-6c3a4f7c56c3,Capitoline,char-offset:41490,PLACE,http://pleiades.stoa.org/places/347036492,Capitolinus Mons,41.8925778,12.4822154,hill,"2,50",Ally,,
+c163675b-243f-4506-a783-3d86628743dd,Carthage,char-offset:35819,PLACE,http://pleiades.stoa.org/places/634585138,Roman amphitheater of Carthage,36.8562215,10.314578,amphitheatre,"2,17",,,YES
+5babbc42-671d-4a31-a744-8daa37437ffa,Chaeronea,char-offset:35447,PLACE,http://pleiades.stoa.org/places/540701,"Chaeronea|Chaironeia/Cheronia, Kapraina",38.493361,22.840365,settlement,"2,17",,,YES
+d9564a94-15fa-41b6-a3a7-d3e2716407fd,Charondas,char-offset:55432,PERSON,,,,,,,,,
+4a055058-1fad-45ab-bd1b-427d7a7c1549,Cincius,char-offset:18534,PERSON,,,,,,"2,38",,,
+fa17886a-1bd7-4c9e-8266-9952d1478015,Cretan,char-offset:9086,PLACE,http://pleiades.stoa.org/places/589748,Creta (island),35.21984439,24.99576997,island,"2,61",,,
+22a7d1d2-6862-4e53-9379-2b3240a157e2,Cretan,char-offset:9248,PLACE,http://pleiades.stoa.org/places/589748,Creta (island),35.21984439,24.99576997,island,"2,61",,,
+b5b5093c-7979-4e3e-9a51-4a5c33065ebf,Cretans,char-offset:46514,PEOPLE,http://pleiades.stoa.org/places/589748,Creta (island),35.21984439,24.99576997,island,"2,23",,,YES
+ca9ed497-e985-4a03-b6ad-b5d8313cbb64,Croton,char-offset:4096,PLACE,http://pleiades.stoa.org/places/452317,"Croto(n)|Temple of Hera Lacinia|Hera, Capo Colonna, Crotone|Croton/Croto, Crotone",39.028864,17.205128,"city-wall,sanctuary,settlement","2,59",,,
+2b21934c-f053-41f5-a259-2a2ef5686f35,Croton,char-offset:4689,PLACE,http://pleiades.stoa.org/places/452317,"Croto(n)|Temple of Hera Lacinia|Hera, Capo Colonna, Crotone|Croton/Croto, Crotone",39.028864,17.205128,"city-wall,sanctuary,settlement","2,59",,,
+44d72702-faf2-4ed9-85a3-069e5036a7db,Croton,char-offset:5042,PLACE,http://pleiades.stoa.org/places/452317,"Croto(n)|Temple of Hera Lacinia|Hera, Capo Colonna, Crotone|Croton/Croto, Crotone",39.028864,17.205128,"city-wall,sanctuary,settlement","2,59",,,
+3f6227f0-cb21-410e-9d07-9e2b56fba83a,Crustumerium,char-offset:5343,PLACE,http://pleiades.stoa.org/places/422914,"Crustumerium|Crustumerium, Marcigliana, Roma",42.01508,12.55006,settlement,"2,32",Enemy,,
+0c00c9a4-4d50-402f-a9d5-e55eccbdbf5c,Crustumerium,char-offset:13846,PLACE,http://pleiades.stoa.org/places/422914,"Crustumerium|Crustumerium, Marcigliana, Roma",42.01508,12.55006,settlement,"2,36",Enemy,,
+b0639996-e5e0-4cc5-87de-983eeb29c28c,Crustumerium,char-offset:48007,PLACE,http://pleiades.stoa.org/places/422914,"Crustumerium|Crustumerium, Marcigliana, Roma",42.01508,12.55006,settlement,"2,53",,,
+d477e036-1681-4ba1-bf37-db88598a480d,Crustumerium,char-offset:49043,PLACE,http://pleiades.stoa.org/places/422914,"Crustumerium|Crustumerium, Marcigliana, Roma",42.01508,12.55006,settlement,"2,53",,,
+da830e41-cb14-43a3-9bbb-4cf5df93aa65,Curetes,char-offset:44910,PEOPLE,http://pleiades.stoa.org/places/413114,"Cures|Cures/Cures Sabini, Santa Maria in Arci, Fara in Sabina",42.18449,12.680562,settlement,"2,22",,,YES
+7713030f-cffe-406b-b1b1-47b38e248be5,Curetes,char-offset:9312,PEOPLE,http://pleiades.stoa.org/places/413114,"Cures|Cures/Cures Sabini, Santa Maria in Arci, Fara in Sabina",42.18449,12.680562,settlement,"2,61",,,
+f26ee61d-f7e0-4f2c-b515-ff3e312cb98e,Curetes,char-offset:30453,PEOPLE,http://pleiades.stoa.org/places/413114,"Cures|Cures/Cures Sabini, Santa Maria in Arci, Fara in Sabina",42.18449,12.680562,settlement,"2,70",,,
+d4ca0426-80bf-47e8-ac70-3413be35c37a,Curetes,char-offset:30546,PEOPLE,http://pleiades.stoa.org/places/413114,"Cures|Cures/Cures Sabini, Santa Maria in Arci, Fara in Sabina",42.18449,12.680562,settlement,"2,70",,,
+e70bf830-11d1-4e33-a308-b59cc76de5a8,Curetes,char-offset:31408,PEOPLE,http://pleiades.stoa.org/places/413114,"Cures|Cures/Cures Sabini, Santa Maria in Arci, Fara in Sabina",42.18449,12.680562,settlement,"2,70",,,
+2cdaf63b-a32b-4902-955d-6b26e331bc95,Curetes,char-offset:32652,PEOPLE,http://pleiades.stoa.org/places/413114,"Cures|Cures/Cures Sabini, Santa Maria in Arci, Fara in Sabina",42.18449,12.680562,settlement,"2,71",,,
+01a7b37f-79cd-46e5-aa4c-6542f91ea031,Curetes,char-offset:33286,PEOPLE,http://pleiades.stoa.org/places/413114,"Cures|Cures/Cures Sabini, Santa Maria in Arci, Fara in Sabina",42.18449,12.680562,settlement,"2,71",,,
+109a1335-44a9-4a6c-9660-6ea9a51848a6,Curtius,char-offset:26370,PERSON,,,,,,"2,42",,,
+79ef8fa9-ee11-4d5c-b943-45af73ffb8b7,Curtius,char-offset:26588,PERSON,,,,,,"2,42",,,
+1856cfe8-4050-4cfe-bde5-e2281f5fff96,Curtius,char-offset:27517,PERSON,,,,,,"2,42",,,
+b70c28a8-fa7d-4ef3-aae0-57b787c4b02f,Dardanidae,char-offset:3482,PERSON,,,,,,,,,
+240a0c40-ac5b-4e3f-ac78-cda2d0a9c4ee,Delphi,char-offset:9497,PLACE,http://pleiades.stoa.org/places/540726,"Delphi|Delphi/Delphoi, Delphi",38.482289,22.501169,"sanctuary,settlement","2,61",,,
+08ec81eb-8e41-416f-9421-85ba00d264f7,Dictaean mountain,char-offset:9216,PLACE,,,,,,"2,61",,,
+e33066e6-6e52-40e4-bfe4-679769ba12b5,Dionysus,char-offset:39155,PERSON,,,,,,,,,
+6fd67395-7779-4266-a412-5b9530b41c07,Egeria,char-offset:7375,PERSON,,,,,,"2,60",,,
+48505da9-f50a-4430-a4b2-190e0b78a5c6,Elis,char-offset:2149,PLACE,http://pleiades.stoa.org/places/570221,Elis,37.75,21.25,region,"2,1",,,YES
+192d33ce-2eec-443f-a44f-f5accc9e3610,Elis,char-offset:2701,PLACE,http://pleiades.stoa.org/places/570221,Elis,37.75,21.25,region,"2,2",,,YES
+5942570d-a4b8-4c79-b575-741ee17b20cb,Epeans,char-offset:2110,PEOPLE,http://pleiades.stoa.org/places/570221,Elis,37.75,21.25,region,"2,1",,,YES
+4306216b-5f07-4836-9e78-81cb56001836,Epeans,char-offset:2680,PEOPLE,http://pleiades.stoa.org/places/570221,Elis,37.75,21.25,region,"2,2",,,YES
+212d6c73-a579-4944-b3ed-e36a54828369,Erinyes,char-offset:44327,PERSON,,,,,,"2,75",,,
+ca7d6903-862b-4502-9e5f-7e8370730095,Erytheia,char-offset:1794,PLACE,http://pleiades.stoa.org/places/711233,Erythrai,,,settlement,"2,1",,,NO
+1de60ad8-de95-4153-9407-a38fe6a03c0f,Eunomus,char-offset:40059,PERSON,,,,,,"2,49",,,
+524fa5d2-e5fd-4e8e-aa9a-6bc238871066,Evander,char-offset:1503,PERSON,,,,,,"2,1",,,NO
+b5261d90-750f-4407-899b-faefe7c13a4c,Fabidius,char-offset:38164,PERSON,,,,,,"2,48",,,
+e6baa0b3-926c-4199-87c0-5cbf12617328,Fabius,char-offset:18523,PERSON,,,,,,"2,38",,,
+3861bada-4144-49fc-9ae2-60758730f306,Fabius,char-offset:20857,PERSON,,,,,,"2,39",,,
+b8d1e90a-e598-4852-ae5d-f303cf56b266,Fabius,char-offset:22278,PERSON,,,,,,"2,40",,,
+9e967fd8-d69e-44ff-906c-4912b38f4de3,Fidenae,char-offset:34259,PLACE,http://pleiades.stoa.org/places/422923,"Fidenae|Fidenae, Borgata Fidene, Roma",41.97853,12.51232,settlement,"2,72",,,
+128822fa-34ac-40a8-8946-e3b13bba6897,Fidenae,char-offset:50775,PLACE,http://pleiades.stoa.org/places/422923,"Fidenae|Fidenae, Borgata Fidene, Roma",41.97853,12.51232,settlement,"2,54",Enemy,,
+e5d57efe-d801-4773-b6ec-f316d5d2ef69,Fidenae,char-offset:52886,PLACE,http://pleiades.stoa.org/places/422923,"Fidenae|Fidenae, Borgata Fidene, Roma",41.97853,12.51232,settlement,"2,55",,,
+f411a63e-4167-4fed-9a8e-5f821a01de5f,Gaius Gracchus,char-offset:24578,PERSON,,,,,,,,,
+7067a694-3d32-43fc-96ae-b8c5842a9fd1,Gaius Papirius,char-offset:54301,PERSON,,,,,,,,,
+fc7e6d3c-3ed3-4f8b-b157-9ebee21f77b7,Gellius,char-offset:34019,PERSON,,,,,,"2,72",,,
+179c991d-f454-4fda-99c2-d3fa3bd30ed3,Gnaeus Gellius,char-offset:48743,PERSON,,,,,,"2,76",,,
+fe0c0b63-4e82-48f6-ab52-a2a8aa18522b,Gnaeus Gellius,char-offset:2951,PERSON,,,,,,"2,31",,,
+f68e88c8-bbf9-4089-964a-95864dc06362,Greece,char-offset:35520,PLACE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,17",,,YES
+6eeae607-c6d7-4fde-bf10-3401ae4220b1,Greece,char-offset:35782,PLACE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,17",,,YES
+a6dd77a0-14c0-4d6c-a1db-683f89969e45,Greek,char-offset:2987,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,2",,,YES
+566278c4-2e3b-4286-bb99-c2739ef7ed5e,Greek,char-offset:15626,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,7",,,YES
+506bf10a-d8b9-4ba5-8ca9-9f005ed03aaf,Greek,char-offset:16885,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,8",,,YES
+d4fb6464-8da3-4f68-ab58-7d4f5c4d24f5,Greek,char-offset:19724,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,9",,,YES
+dbe7fe92-b45a-43c2-95b7-3945cfc4da5a,Greek,char-offset:25852,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,12",,,YES
+4419c921-0852-492e-b983-7a8cad6f4f5f,Greek,char-offset:26297,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,12",,,YES
+8d42b0cc-8667-40b9-9a37-55a7edfa13a2,Greek,char-offset:26335,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,12",,,YES
+686df84c-4cfc-4637-a65d-d8d01db570fe,Greek,char-offset:41148,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,2",,,YES
+30389d44-215a-447d-8df5-8584e3ef4a8e,Greek,char-offset:41691,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,2",,,YES
+a8d92510-32c8-4c41-832e-e02db11d4656,Greek,char-offset:44500,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,22",,,YES
+b510d7df-8f89-4d99-926b-200ac1a38289,Greek,char-offset:46130,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,23",,,YES
+c630a0ee-75f1-4d0f-b79e-0dd0e8f8a328,Greek,char-offset:49017,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,24",,,YES
+116504d2-c707-4842-91cf-611fac73e6c9,Greek,char-offset:55108,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,26",,,YES
+91ebc511-d3b4-4eac-9428-5dfe3f095af9,Greek,char-offset:5812,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,59",,,
+2fba1971-7589-405e-86dd-4ba436361649,Greek,char-offset:13815,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,63",,,
+30fd828a-3bb3-45c6-a5a2-56de2e92e607,Greek,char-offset:30535,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,70",,,
+d3dc72b0-eddf-40f1-8b2b-fa62aaf73351,Greek,char-offset:33674,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,72",,,
+7e9caa73-70e1-4ec0-aa46-3717f6305065,Greeks,char-offset:1847,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,1",,,YES
+2a7b8f41-5989-4c42-9ca3-c06b6c72ffe5,Greeks,char-offset:7434,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,3",,,YES
+428a6c82-29e8-40aa-9538-86edff26bbac,Greeks,char-offset:33401,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,16",,,YES
+a5746db4-5911-45cb-a417-fef98f058ac0,Greeks,char-offset:34733,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,17",,,YES
+ff14e96d-95ad-449a-94db-69ef5a6b1e13,Greeks,char-offset:38139,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,18",,,YES
+1a0daa26-2e52-4522-b25c-ac1d6a4f4c26,Greeks,char-offset:39078,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,19",,,YES
+ba6cefd3-369e-4bcf-8793-c196ca3c1a37,Greeks,char-offset:39618,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,19",,,YES
+cf52aef6-0358-4579-bbd9-2c7b3e9c4bc4,Greeks,char-offset:44445,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,22",,,YES
+0f9e90e7-cf91-4a2e-9c62-9d32ee411435,Greeks,char-offset:44749,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,22",,,YES
+f7ce337e-8c66-4cf4-88fa-d9021dc898ce,Greeks,char-offset:51999,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,25",,,YES
+0a4a7dc7-0cc7-419f-ac35-e7370589a5a0,Greeks,char-offset:53604,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,25",,,YES
+f534c257-3a25-41f7-b176-0ed765b02e99,Greeks,char-offset:55901,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,26",,,YES
+fd4475d2-eb18-4b77-8f54-577e9bbeedd0,Greeks,char-offset:57531,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,27",,,YES
+dbddac3b-fd3c-42e3-b79a-2bbba624df05,Greeks,char-offset:9039,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,61",,,
+32c36385-aa99-4aa7-9bee-f61418e5cb18,Greeks,char-offset:12946,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,63",,,
+219436ea-2067-43b6-b08d-34812cdfd5b5,Greeks,char-offset:15180,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,64",,,
+403c909d-cb51-4f99-a136-468c7ad03bb6,Greeks,char-offset:19285,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,65",,,
+2488a60c-9168-417e-a0a1-13962d36e49f,Greeks,char-offset:25736,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,68",,,
+2d2347fe-93ef-4341-8cd3-0e139abe880b,Greeks,char-offset:30094,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,70",,,
+b17988e1-1cfa-4c9f-b844-5014fab5fb5f,Greeks,char-offset:30414,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,70",,,
+dceac5a4-4f97-4c13-8c27-8f003f3e57a1,Greeks,char-offset:34524,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,72",,,
+995067ba-2c9f-4b84-8933-1557bd4c932e,Greeks,char-offset:44315,PEOPLE,http://sws.geonames.org/390903,Greece,39.04697922,22.97947876,,"2,75",,,
+5b6af5d0-3966-4523-8500-2ec98b9fc766,Haemonia,char-offset:1330,PLACE,http://pleiades.stoa.org/places/494567,Harmonia,,,unlocated,"2,1",,,NO
+3cd2c6a6-868c-46cb-ac2b-948aa645a2c9,Hercules,char-offset:1731,PERSON,,,,,,"2,1",,,NO
+315632cf-d072-4fa6-ba72-d6d12dcba452,Hercules,char-offset:2197,PERSON,,,,,,"2,2",,,NO
+21b42a78-0ce1-4b4e-8e18-7e7d5102a657,Hermes,char-offset:1523,PERSON,,,,,,"2,1",,,NO
+117074d2-08f5-4bfc-9476-c7788518a017,Hersilia,char-offset:31775,PERSON,,,,,,"2,45",,,
+02ff987a-51d4-4f27-a55b-f7f6b80c9a82,Hersilia,char-offset:33338,PERSON,,,,,,"2,45",,,
+c12f7de5-f247-4ef9-b725-45157bd9619f,Idaean,char-offset:40219,PEOPLE,http://pleiades.stoa.org/places/550592,"Ida M.|Ida Mons, Kaz Dağ",39.69936,26.85852,mountain,"2,19",,,YES
+02d8a966-dfaa-4847-bebd-09f44f6581b3,Ilium,char-offset:17628,PLACE,http://pleiades.stoa.org/places/550595,"Ilium/Troia|Ilium/Troia, Hisarlık",39.9577,26.23873,settlement,"2,65",,,
+97b86b28-a757-4214-b17d-8c61afc7f3f1,Ilium,char-offset:22130,PLACE,http://pleiades.stoa.org/places/550595,"Ilium/Troia|Ilium/Troia, Hisarlık",39.9577,26.23873,settlement,"2,66",,,
+bea43233-180e-4414-a2e6-4c1e7ebac1bd,Italy,char-offset:56,PLACE,http://sws.geonames.org/3175395,Italy,42.78740074,12.0810743,,"2,1",,,YES
+da772a76-f451-4a74-95c1-8eaafd6e8dc7,Italy,char-offset:344,PLACE,http://sws.geonames.org/3175395,Italy,42.78740074,12.0810743,,"2,1",,,YES
+d46a7374-6cd8-490a-a527-333b4760f470,Italy,char-offset:1750,PLACE,http://sws.geonames.org/3175395,Italy,42.78740074,12.0810743,,"2,1",,,YES
+7182c964-47d7-4edd-bfbf-9d68c5cb2830,Italy,char-offset:2754,PLACE,http://sws.geonames.org/3175395,Italy,42.78740074,12.0810743,,"2,2",,,YES
+dcf2582c-f04d-4231-bc34-622560c61c80,Italy,char-offset:31947,PLACE,http://sws.geonames.org/3175395,Italy,42.78740074,12.0810743,,"2,15",,,YES
+fc5b4b93-80f9-4129-aaf5-93aed12ad149,Italy,char-offset:35662,PLACE,http://sws.geonames.org/3175395,Italy,42.78740074,12.0810743,,"2,17",,,YES
+2e2d03b9-28f7-43ee-bbec-17002195f627,Italy,char-offset:35904,PLACE,http://sws.geonames.org/3175395,Italy,42.78740074,12.0810743,,"2,17",,,YES
+102cab6b-951c-42d2-a2b5-50ca80284057,Italy,char-offset:4428,PLACE,http://sws.geonames.org/3175395,Italy,42.78740074,12.0810743,,"2,59",,,
+f1bab125-ea54-4147-9aab-2607b8eb1500,Italy,char-offset:5286,PLACE,http://sws.geonames.org/3175395,Italy,42.78740074,12.0810743,,"2,59",,,
+ce448ca3-24bd-44a4-a4b9-1da96ad26fd7,Italy,char-offset:22003,PLACE,http://sws.geonames.org/3175395,Italy,42.78740074,12.0810743,,"2,66",,,
+7eb36b62-f0ee-433f-a908-a04c35785cd5,Italy,char-offset:22211,PLACE,http://sws.geonames.org/3175395,Italy,42.78740074,12.0810743,,"2,66",,,
+f5d024c1-ae1d-495a-bf2d-f7b75f7f3e15,Italy,char-offset:40433,PLACE,http://sws.geonames.org/3175395,Italy,42.78740074,12.0810743,,"2,49",,,
+0e836b99-3653-486d-ba48-b58aaa2b6060,Julius,char-offset:14285,PERSON,,,,,,"2,63",,,
+b459b2b4-a009-4cae-8d34-43a466609bc7,Julius,char-offset:14628,PERSON,,,,,,"2,63",,,
+355a0f73-df28-4cbb-bf3d-e94942ba8526,Jupiter,char-offset:10144,PERSON,,,,,,,,,
+a12d5eac-bf60-40ca-b5a5-ecc42c355258,Jupiter,char-offset:12294,PERSON,,,,,,,,,
+dd131f2f-a4b5-425d-9e5e-a834216edc6d,Jupiter,char-offset:22355,PERSON,,,,,,,,,
+af6ae1c0-5ef8-4973-857d-a8157e3bda98,Jupiter,char-offset:38703,PERSON,,,,,,,,,
+0cc8bbc4-f30f-4bfc-8d89-1ae640488240,King Hostilius,char-offset:29238,PERSON,,,,,,"2,70",,,
+553e670a-b0ad-4432-969b-0123184d98ea,Lacedaemonian,char-offset:3739,PEOPLE,http://pleiades.stoa.org/places/570406,Lacedaemon/Laconia,37.07624042,22.46082645,region,"2,58",,,
+3c1be6c4-b94b-4d61-91b3-1efde08a978e,Lacedaemonian,char-offset:9113,PEOPLE,http://pleiades.stoa.org/places/570406,Lacedaemon/Laconia,37.07624042,22.46082645,region,"2,61",,,
+a6867520-9874-415f-9799-08d74aea21f0,Lacedaemonians,char-offset:28174,PEOPLE,http://pleiades.stoa.org/places/570406,Lacedaemon/Laconia,37.07624042,22.46082645,region,"2,13",,,YES
+efdd4f90-d1dc-4555-b6bd-b6629e04c4a9,Lacedaemonians,char-offset:29474,PEOPLE,http://pleiades.stoa.org/places/570406,Lacedaemon/Laconia,37.07624042,22.46082645,region,"2,14",,,YES
+4c8213b0-b6de-43d3-af6d-e8672227ac67,Lacedaemonians,char-offset:34802,PEOPLE,http://pleiades.stoa.org/places/570406,Lacedaemon/Laconia,37.07624042,22.46082645,region,"2,17",,,YES
+37aa389a-fd66-4f6c-b2eb-974f9d31e05c,Lacedaemonians,char-offset:46371,PEOPLE,http://pleiades.stoa.org/places/570406,Lacedaemon/Laconia,37.07624042,22.46082645,region,"2,23",,,YES
+9aa12813-1dcb-4c9e-9123-71e502d8c1b7,Lacedaemonians,char-offset:50697,PEOPLE,http://pleiades.stoa.org/places/570406,Lacedaemon/Laconia,37.07624042,22.46082645,region,"2,24",,,YES
+f8f99698-44fe-4420-8e10-0f5561c73f2a,Lacedaemonians,char-offset:61233,PEOPLE,http://pleiades.stoa.org/places/570406,Lacedaemon/Laconia,37.07624042,22.46082645,region,"2,28",,,YES
+5af8eed5-3e1b-4ecc-ad08-b39a9447bea8,Latins,char-offset:19867,PEOPLE,http://pleiades.stoa.org/places/432900,Latium,41.7909,12.7621,"region,people","2,66",,,
+5863f594-fea8-48a2-95e8-9f8e3eb4b02c,Latinus,char-offset:3107,PERSON,,,,,,,,,
+0db6ce44-8385-4934-9278-c263727584d7,Lavinium,char-offset:45104,PLACE,http://pleiades.stoa.org/places/423104,"Tredici Altari|Temple East of Lavinium|Pratica di Mare, Pomezia|Tredici Altari|Lavinium|Lavinium, Pratica di Mare, Pomezia",41.66391,12.48009,"temple-2,urban,port,sanctuary,settlement","2,51",Enemy,,
+c5b6a605-6a69-4945-af1d-0f2afa7672a7,Lavinium,char-offset:46113,PLACE,http://pleiades.stoa.org/places/423104,"Tredici Altari|Temple East of Lavinium|Pratica di Mare, Pomezia|Tredici Altari|Lavinium|Lavinium, Pratica di Mare, Pomezia",41.66391,12.48009,"temple-2,urban,port,sanctuary,settlement","2,52",Enemy,,
+79e7336a-d901-46b7-856e-6566d64be791,Leuctra,char-offset:35210,PLACE,http://pleiades.stoa.org/places/540913,"Leuktra|Leuktra, Leuktra",38.25422,23.18095,settlement,"2,17",,,YES
+ab154fa4-309c-46aa-955a-148f5dc6ba2e,Licinius,char-offset:46443,PERSON,,,,,,"2,52",,,
+22a7cbd7-2581-455f-ac72-99df4fbc7e51,Licinius Crassus,char-offset:14408,PERSON,,,,,,,,,
+32cc5728-0af8-4cf8-a243-edbcd562aa34,Lucius Caecilius,char-offset:21084,PERSON,,,,,,"2,66",,,
+f7e469e3-e39a-454c-9545-4d46b61bed2d,Lucius Piso,char-offset:18799,PERSON,,,,,,"2,38",,,
+81909b40-7fff-4a85-9ea9-29c600bb7fe6,Lucumo,char-offset:15964,PERSON,,,,,,"2,37",,,
+10d7cd88-e4da-499d-b834-a06b54a86e54,Lucumo,char-offset:17444,PERSON,,,,,,"2,37",,,
+bd4caba8-21ba-490f-a133-0cac21682d09,Lucumo,char-offset:25290,PERSON,,,,,,"2,42",,,
+b92b6d00-01dd-4066-82ac-8d82dc7e74d6,Lucumo,char-offset:28266,PERSON,,,,,,"2,43",,,
+a67870d7-20eb-4bdc-9dd0-fb8beb523219,Lycaon,char-offset:1109,PERSON,,,,,,"2,1",,,NO
+ed175d2b-5422-47e4-a25d-a05df0fe2909,Lycaonia,char-offset:1010,PLACE,http://pleiades.stoa.org/places/982262,Lycaonia,37.5,32.5,province,"2,1",,,YES
+80bdfa19-977b-4022-9f04-2e4506a47f41,Lycurgus,char-offset:46463,PERSON,,,,,,,,,
+9ab48da4-c8f1-4ab5-a70e-a1660d9eda0f,Lycurgus,char-offset:9100,PERSON,,,,,,"2,61",,,
+73bc168a-c4a8-45ca-af3b-584b5c1a27fd,Lycurgus,char-offset:9470,PERSON,,,,,,"2,61",,,
+604a3b14-ea46-4b1c-8d1f-cece020c616b,Lycurgus,char-offset:40021,PERSON,,,,,,"2,49",,,
+499188ad-9eab-4f89-99c9-6f084d372c98,Macedonia,char-offset:35768,PLACE,http://pleiades.stoa.org/places/491656,Macedonia,41.25,21.75,unknown,"2,17",,,YES
+c87b6da4-aff1-44c8-9d43-717450bcf57d,Marcus Pomponius,char-offset:54280,PERSON,,,,,,,,,
+4796989e-8378-46f7-9263-cc600c21cbb7,Mars,char-offset:3602,PERSON,,,,,,,,,
+10ee699f-fb95-47c9-8f5f-f2f103a2968a,Medullia,char-offset:14358,PLACE,http://pleiades.stoa.org/places/438784,Medullium/Medullum,,,unlocated,"2,36",,,
+84cddb88-cbc4-42b9-bd76-68c57cec2fdb,Metellus,char-offset:21109,PERSON,,,,,,"2,66",,,
+dcfafdea-b58e-49dc-a016-9e659f9148fb,Mettius Curtius,char-offset:25515,PERSON,,,,,,"2,42",,,
+483a7a4f-6e4d-4e3c-a130-eb96a4f7a276,Mettius Curtius,char-offset:35287,PERSON,,,,,,"2,46",,,
+27b8325b-0c3f-4bca-b3ca-f077c3a03cc2,Mezentius,char-offset:12153,PERSON,,,,,,,,,
+e91c7464-93bd-4ab2-8ba2-bbf6780cf5e2,Minos,char-offset:9076,PERSON,,,,,,"2,61",,,
+8075e893-5ace-4e48-a645-ea459a98f5bb,Modius,char-offset:38140,PERSON,,,,,,"2,48",,,
+72485d38-9cbc-4778-9fb8-914bbad46118,Nomentum,char-offset:49030,PLACE,http://pleiades.stoa.org/places/422986,"Nomentum|Nomentum, Mentana|Mentana",42.03398,12.63764,"settlement-modern,settlement","2,53",,,
+1975d51e-3c94-4098-8931-4665f6060bdb,Numa,char-offset:2889,PERSON,,,,,,"2,58",,,
+faa40de1-067c-48c7-b856-3a0760f365a5,Numa,char-offset:3604,PERSON,,,,,,"2,58",,,
+6dd6ed71-3f72-4336-bcb9-333a01d3ad16,Numa,char-offset:3985,PERSON,,,,,,"2,59",,,
+7f06eedd-b586-4e03-8c4d-090bb1a50fde,Numa,char-offset:4214,PERSON,,,,,,"2,59",,,
+b091cfa5-4b11-4aa6-a027-5b95f8151597,Numa,char-offset:4309,PERSON,,,,,,"2,59",,,
+8972db52-8a92-444f-a7c9-971b6667425b,Numa,char-offset:4589,PERSON,,,,,,"2,59",,,
+9b87c715-487d-4fc4-911f-20574c2d7830,Numa,char-offset:4759,PERSON,,,,,,"2,59",,,
+3caa103a-e12d-4676-b3a5-9a3e5f94c142,Numa,char-offset:4910,PERSON,,,,,,"2,59",,,
+79ec02e3-e45c-45b6-a5ea-f344a0dde467,Numa,char-offset:5310,PERSON,,,,,,"2,59",,,
+381d0489-f197-489f-a9bd-5966bb21a578,Numa,char-offset:5412,PERSON,,,,,,"2,59",,,
+71ee8338-dcaf-4438-8d5a-3c443a71c910,Numa,char-offset:5653,PERSON,,,,,,"2,59",,,
+017fbfbe-963e-4f3a-8341-ff2c384e48d6,Numa,char-offset:5903,PERSON,,,,,,"2,60",,,
+40fabb75-80a9-4273-b7b3-5f8447039286,Numa,char-offset:8785,PERSON,,,,,,"2,61",,,
+742a4dd8-01ed-451f-a671-e253ea98e5cc,Numa,char-offset:11521,PERSON,,,,,,"2,62",,,
+2ecff372-a825-4342-a892-876df8149146,Numa,char-offset:14815,PERSON,,,,,,"2,63",,,
+61d562b0-6b0e-4a23-8b85-96607240a0d1,Numa,char-offset:17769,PERSON,,,,,,"2,65",,,
+2124b594-1244-45a8-aa9a-53b8c90c379e,Numa,char-offset:19486,PERSON,,,,,,"2,66",,,
+198ff7c9-86e1-453d-970c-23a7a96f583f,Numa,char-offset:22800,PERSON,,,,,,"2,67",,,
+cced5dd6-e7bf-4356-b99d-033927425cca,Numa,char-offset:28843,PERSON,,,,,,"2,70",,,
+4fd26f1c-c116-4fe5-b582-56932545edd9,Numa,char-offset:29223,PERSON,,,,,,"2,70",,,
+d1e01d16-6838-4ce2-9ab6-c76f2bada793,Numa,char-offset:31736,PERSON,,,,,,"2,71",,,
+361b307d-7f4a-42b7-bc7d-34be124451ef,Numa,char-offset:31969,PERSON,,,,,,"2,71",,,
+c79e7333-b2fd-4e20-88a9-e7cf249b1b1a,Numa,char-offset:33807,PERSON,,,,,,"2,72",,,
+185bb237-4c22-43c2-83d8-f796681b07d0,Numa,char-offset:34094,PERSON,,,,,,"2,72",,,
+7879fdda-3eb6-447e-b1e6-5e3c9ef733f0,Numa,char-offset:34196,PERSON,,,,,,"2,72",,,
+1bb61122-fc63-499f-93fc-71b2b25a0563,Numa,char-offset:38689,PERSON,,,,,,"2,72",,,
+5fc855e9-3867-42aa-86c3-cc3d16a02193,Numa,char-offset:40615,PERSON,,,,,,"2,73",,,
+65895b36-7c51-4384-94a8-84ba29843eaf,Numa,char-offset:43001,PERSON,,,,,,"2,74",,,
+3a3f5ded-333c-4973-9afc-f24ceaf5caef,Numa,char-offset:43555,PERSON,,,,,,"2,75",,,
+c3959290-98ca-423e-89d0-2f3fbd3cfee4,Numa,char-offset:45644,PERSON,,,,,,"2,75",,,
+7aae18de-43ed-4267-8c24-d85a39a37f7a,Numa,char-offset:47057,PERSON,,,,,,"2,76",,,
+61908a7e-1e89-4217-b317-2edddb429b81,Numa,char-offset:47624,PERSON,,,,,,"2,76",,,
+adb7dcd1-af9e-472b-8e3e-9645f79b75f7,Numa Pompilius,char-offset:47873,PERSON,,,,,,,,,
+16190e6b-62c0-4cad-8dd8-c2ca6251ed3e,Numa Pompilius,char-offset:59162,PERSON,,,,,,,,,
+20484a28-b983-4401-b2f6-fc1a0f67e47e,Numa Pompilius,char-offset:3480,PERSON,,,,,,"2,58",,,
+f4e40817-80b1-400f-bdfc-da467f9a0dd3,Numa Pompilius,char-offset:49074,PERSON,,,,,,"2,76",,,
+8a178afc-2b93-4c81-81b9-48eff47bdfad,Numitor,char-offset:767,PERSON,,,,,,"2,30",,,
+87be1bd6-8fd9-43ac-b309-422ae295dc6a,Oenotrians,char-offset:664,PEOPLE,http://pleiades.stoa.org/places/452395,Oenotri,40.42064875,15.00532475,people,"2,1",,,NO
+a9a69e6e-c77e-48b2-839c-d4630515fad2,Oenotrians,char-offset:919,PEOPLE,http://pleiades.stoa.org/places/452395,Oenotri,40.42064875,15.00532475,people,"2,1",,,NO
+0640f756-46d9-4336-9435-d8b58fd50568,Oenotrus,char-offset:1088,PERSON,,,,,,"2,1",,,NO
+25a953dd-affd-46bb-b6cb-1ac90fedc184,Palatine,char-offset:19657,PLACE,http://pleiades.stoa.org/places/971691208,Palatinus Mons,41.8893064,12.4871093,hill,"2,66",,,
+53fde41f-88cc-4501-8af0-ba0b16d7e067,Palatine,char-offset:29009,PLACE,http://pleiades.stoa.org/places/971691208,Palatinus Mons,41.8893064,12.4871093,hill,"2,70",,,
+ec5e7b3d-6726-4a32-b26e-e09d91386b7c,Palatine,char-offset:15398,PLACE,http://pleiades.stoa.org/places/971691208,Palatinus Mons,41.8893064,12.4871093,hill,"2,37",,,
+9d1b1b9c-4e90-46e0-87d5-7d18017e6a36,Palatine,char-offset:41271,PLACE,http://pleiades.stoa.org/places/971691208,Palatinus Mons,41.8893064,12.4871093,hill,"2,50",Ally,,
+4013dacf-e879-4bda-a7ac-725ec862c51e,Palatine,char-offset:41327,PLACE,http://pleiades.stoa.org/places/971691208,Palatinus Mons,41.8893064,12.4871093,hill,"2,50",Ally,,
+f5ef6064-3e7e-46ce-84fc-e96644fb4593,Palatine,char-offset:42051,PLACE,http://pleiades.stoa.org/places/971691208,Palatinus Mons,41.8893064,12.4871093,hill,"2,50",Ally,,
+ff3b77c9-521a-4920-8a90-b817ae84812e,Pallantium,char-offset:1450,PLACE,http://pleiades.stoa.org/places/570548,"Pallantion|Pallantion, Berbati",37.462155,22.336587,settlement,"2,1",,,YES
+a5b8cb12-fa89-4fa2-b82a-9470417e3edf,Pallantium,char-offset:1656,PLACE,http://pleiades.stoa.org/places/570548,"Pallantion|Pallantion, Berbati",37.462155,22.336587,settlement,"2,1",,,YES
+2122c9db-dc01-4fef-bd11-ba2fbf0c0219,Pallantium,char-offset:1887,PLACE,http://pleiades.stoa.org/places/570548,"Pallantion|Pallantion, Berbati",37.462155,22.336587,settlement,"2,1",,,YES
+9aba118a-a58d-4384-be1c-356706c16914,Parthian,char-offset:14494,PLACE,http://pleiades.stoa.org/places/894004,"Hatra|Hatra, al-Hadr",35.58703,42.71855,settlement,"2,6",,,YES
+b3582e64-9bb7-4214-b0b1-0ff8d757dad4,Pelasgians,char-offset:1261,PEOPLE,http://pleiades.stoa.org/places/413044,"*Aurinia/Saturnia|*Aurinia/Saturnia, Saturnia, Manciano",42.666255,11.504827,"settlement,city-gate","2,1",,,YES
+daab62b5-3f9a-49ad-b215-4c2954c09358,Pelasgians,char-offset:1403,PEOPLE,http://pleiades.stoa.org/places/413044,"*Aurinia/Saturnia|*Aurinia/Saturnia, Saturnia, Manciano",42.666255,11.504827,"settlement,city-gate","2,1",,,YES
+0a3951e6-d99b-414e-ab38-8d866b3bae48,Pelasgians,char-offset:2647,PEOPLE,http://pleiades.stoa.org/places/413044,"*Aurinia/Saturnia|*Aurinia/Saturnia, Saturnia, Manciano",42.666255,11.504827,"settlement,city-gate","2,2",,,YES
+e880c4ed-456c-4df4-8b40-f1faea5a7a1c,Pelasgians,char-offset:44835,PEOPLE,http://pleiades.stoa.org/places/413044,"*Aurinia/Saturnia|*Aurinia/Saturnia, Saturnia, Manciano",42.666255,11.504827,"settlement,city-gate","2,22",,,YES
+56c53a5f-1775-4ab9-805a-dcbdafb371bd,Persephonê,char-offset:39122,PERSON,,,,,,,,,
+282b780e-b2e2-4bbf-a413-844ace2fba13,Phrygian,char-offset:40420,PEOPLE,http://pleiades.stoa.org/places/511362,Phrygia,40.25,27.75,labeled feature,"2,19",,,YES
+deb01a7a-d25f-40fb-91e7-d17890946f0c,Phrygian,char-offset:40904,PEOPLE,http://pleiades.stoa.org/places/511362,Phrygia,40.25,27.75,labeled feature,"2,19",,,YES
+4283635f-92c1-41b8-945c-ca0028bb0cb2,Piso,char-offset:21633,PERSON,,,,,,"2,40",,,
+a5134e93-45d5-4fe6-a561-dc2dd5e92e93,Piso,char-offset:22842,PERSON,,,,,,"2,40",,,
+f360460e-7a8e-4afa-9925-1ccc689fe0d9,Pittacus,char-offset:55419,PERSON,,,,,,,,,
+9c650d2c-80ba-4433-974b-730e7fb7d737,Pomentine plains,char-offset:40459,PLACE,,,,,,"2,49",,,
+0a0ba109-62cd-469d-8222-edd41be27539,Pompilius Pompon,char-offset:2825,PERSON,,,,,,"2,58",,,
+cc9b1188-b096-4af4-bace-b5b5458711c8,Populifugia,char-offset:56351,PLACE,,,,,,"2,56",,,
+2fdca50c-2dac-4fca-b1db-f19afc0bff1c,Porcius Cato,char-offset:39010,PERSON,,,,,,"2,49",,,
+db5e622e-edbe-48c6-9d5c-804d2e132645,Porta Mugonia,char-offset:42002,PLACE,,,,,,"2,50",Ally,,
+11b8ae02-424a-4c9c-a045-d4bc2c674383,Posidonia,char-offset:719,PLACE,http://pleiades.stoa.org/places/442733,"Poseidonia/Paestum|Paestum/Poseidonia, Paestum, Capaccio",40.421378,15.005102,settlement,"2,1",,,YES
+b351dbab-e198-4ecb-af80-927a22bb6c81,Pythagoras,char-offset:3725,PERSON,,,,,,"2,58",,,
+cd659757-231c-4205-b13b-5d79353c7e97,Pythagoras,char-offset:4008,PERSON,,,,,,"2,59",,,
+8c2c0276-971b-4637-ab58-b43e7a4c5906,Pythagoras,char-offset:4120,PERSON,,,,,,"2,59",,,
+d102baa3-a2a0-4392-a2c4-fdcd23e8e9b3,Pythagoras,char-offset:4406,PERSON,,,,,,"2,59",,,
+ad195cc0-c36e-421b-a63c-fbeac3221cc2,Pythagoras,char-offset:4954,PERSON,,,,,,"2,59",,,
+8d9cf6e1-2b91-435f-9f3b-9ceb4851d324,Pythagoras,char-offset:5272,PERSON,,,,,,"2,59",,,
+542115ff-3060-4854-b098-d6d7f7e063db,Pythagoras,char-offset:5431,PERSON,,,,,,"2,59",,,
+38075d12-0a17-4d68-814c-96921f0db933,Pythagoras,char-offset:5583,PERSON,,,,,,"2,59",,,
+acb91708-f65a-40fd-8cda-a3f739b60017,Quirinus,char-offset:14060,PERSON,,,,,,"2,63",,,
+3846512d-7bdb-49b4-aaaf-926a8f45b4ef,Quirinus,char-offset:14804,PERSON,,,,,,"2,63",,,
+bcb7bf96-cd63-4d73-9d49-9a5e65c34bad,Remus,char-offset:3400,PERSON,,,,,,,,,
+26763307-cbda-4eed-be3a-33333844d633,Roman,char-offset:5821,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,59",,,
+6324d127-1534-4ca5-8e3f-f63db574e9be,Roman,char-offset:16532,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,64",,,
+9ab7dc13-0135-48a8-a7c4-0bff817814c1,Roman,char-offset:36882,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,72",,,
+be0c547f-d15e-40bb-ba74-aa6a6fb737e7,Roman,char-offset:38144,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,72",,,
+94f9a9ab-ee4f-49c3-89c5-5f43a0a1c232,Roman,char-offset:45720,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,75",,,
+1a0aeba7-0216-47c0-adae-ba79a821e921,Romans,char-offset:52,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,57",,,
+4f7aa2da-18f5-47ec-9eef-606e53be8585,Romans,char-offset:4059,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,59",,,
+fe42f8dd-8943-4120-b25d-1a938fd959ac,Romans,char-offset:4350,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,59",,,
+7f4e957c-776d-45d7-8db2-9091a23fbd75,Romans,char-offset:4670,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,59",,,
+9e49b539-aa0e-4538-8270-ff9ec605690a,Romans,char-offset:4786,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,59",,,
+d5f8ea01-34dd-4170-a0f9-8be3d0d0eef5,Romans,char-offset:5090,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,59",,,
+e7020e2e-3338-408b-9781-cc819d17c6dc,Romans,char-offset:6227,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,60",,,
+febc821e-6776-4b0a-a605-0c35ec504d4c,Romans,char-offset:7011,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,60",,,
+1a3715d3-fe0b-4e90-a99b-8746cf235034,Romans,char-offset:7902,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,60",,,
+b6f79b96-5440-4a1d-b778-aef3e961f169,Romans,char-offset:8518,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,60",,,
+9bc6df59-b524-4fe1-9786-77bd4c60485b,Romans,char-offset:9807,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,61",,,
+35ac518d-6d1c-4f03-854d-1c3415eb76a1,Romans,char-offset:14153,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,63",,,
+4384c3d1-4ca7-4f7d-929a-7b22a5ad5e3f,Romans,char-offset:14652,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,63",,,
+207b593f-5d73-4ff9-b57d-28d98f81a87e,Romans,char-offset:15241,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,64",,,
+17063b06-3ace-46fd-a7e3-021196ef622e,Romans,char-offset:15819,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,64",,,
+4898735e-e959-4b25-9266-fa1fc10b5e85,Romans,char-offset:15971,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,64",,,
+118bf34d-cad1-4cbc-a9f3-fc8e518f8dca,Romans,char-offset:16178,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,64",,,
+f2956471-97dc-401a-b19c-f3c85c47b9ba,Romans,char-offset:20949,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,66",,,
+4b11d7ef-22b9-47c2-8f5a-e7c4930cd8b3,Romans,char-offset:24962,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,67",,,
+46ce3da0-fe2e-4d1d-8c58-94941846085d,Romans,char-offset:25461,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,68",,,
+2ae649b9-695a-4e73-99f3-e4290b8c988d,Romans,char-offset:26844,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,68",,,
+78a7f6b4-8883-4757-8f80-01cca77f9aa5,Romans,char-offset:28819,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,70",,,
+9caccbc4-fd12-4a56-83a3-4ba62f1f013d,Romans,char-offset:29927,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,70",,,
+d63d5d10-31bd-46f0-aa84-c1ce5fa3a0d9,Romans,char-offset:30650,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,70",,,
+53a5164f-bbf7-4e88-a001-6974fde47096,Romans,char-offset:31891,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,71",,,
+fcf3465b-dfd5-4691-af65-dc7d5e4a8003,Romans,char-offset:32695,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,71",,,
+279e8569-f735-45e9-8143-deb613a4757c,Romans,char-offset:33052,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,71",,,
+4b82248d-e441-4e74-83f8-fec10571a424,Romans,char-offset:33395,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,71",,,
+a58f5a3a-f703-471b-91ab-367040529717,Romans,char-offset:33877,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,72",,,
+85637d68-489f-4d28-a01b-64071447e4b1,Romans,char-offset:34165,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,72",,,
+df5fae5e-2782-4a4c-966b-ab8994d0e944,Romans,char-offset:35218,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,72",,,
+734103bf-8bf2-46f0-b3a8-02deaee5ad62,Romans,char-offset:35551,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,72",,,
+d5575824-2b1b-4f0f-9ae4-dd25343a9efe,Romans,char-offset:36378,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,72",,,
+5a3cd074-7e89-46db-bbff-c4ab5f814458,Romans,char-offset:38807,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,73",,,
+2140beef-c3a9-4cf3-9e90-2b9fb2f20a6c,Romans,char-offset:41848,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,74",,,
+a2aee499-a50d-4f9e-8bc7-53d7c9b169fe,Romans,char-offset:42506,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,74",,,
+0c1a2d86-b372-4ad2-979a-ae8aba73390a,Romans,char-offset:42653,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,74",,,
+ce1b84ca-59e1-4993-87b9-b7bc08a1d1ed,Romans,char-offset:47426,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,76",,,
+c9a542ee-296e-4f82-bc3b-71166ffe356f,Romans,char-offset:47542,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,76",,,
+5863b7b3-20d0-4fc3-9301-f982d3351e04,Romans,char-offset:48079,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,76",,,
+9cb0a0a3-3a4a-4895-93e6-4ce2f41dada6,Romans,char-offset:48848,PEOPLE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,76",,,
+415ad0f2-7f53-4052-8822-ed3ecfd82740,Rome,char-offset:16,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,1",,,YES
+a5644bf0-883b-4f35-a312-e1577a56a638,Rome,char-offset:23657,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,11",,,YES
+34285c77-880e-416c-a68c-fb65377e2f22,Rome,char-offset:34178,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,16",,,YES
+1fd19f58-3112-4186-9345-b83d3bfe44b5,Rome,char-offset:35610,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,17",,,YES
+1246a7fe-85ea-4550-b70b-b3c45c4b93b2,Rome,char-offset:3612,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,58",,,
+54f56f60-2e5d-47aa-a288-7c5e1ab170b1,Rome,char-offset:16275,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,64",,,
+059a9ec6-aa1b-4da1-9e95-fd66eb18b5a7,Rome,char-offset:37046,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,72",,,
+f890cfb5-e230-4924-be3d-65096b2f2b65,Rome,char-offset:5536,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,32",,,
+f923303b-4679-4e54-89da-3e914494cdbe,Rome,char-offset:12175,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,35",,,
+99c552a7-1c93-424c-8b73-d41636c5c961,Rome,char-offset:12777,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,35",,,
+dcdc5268-3963-4498-9eb7-0c7848b18be1,Rome,char-offset:13929,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,36",,,
+21f2fbf2-01a8-4d13-b52c-bb16ab24bd20,Rome,char-offset:15150,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,36",,,
+5e3f1b01-52c5-4564-a717-ff078ebf5791,Rome,char-offset:34513,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,46",,,
+88999fa5-bb39-43b0-aaff-7ab3b57ae76a,Rome,char-offset:34765,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,46",,,
+dbf5fc26-6c5c-48f2-903e-7b75f6738322,Rome,char-offset:35151,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,46",,,
+0bb2e0f0-338d-4ab5-8a0d-3752f9b03368,Rome,char-offset:43344,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,50",,,
+605af293-03fc-4e24-85e9-d7f04ac8e2ca,Rome,char-offset:43539,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,50",,,
+c5100574-c694-4901-bff0-e752564ce3e9,Rome,char-offset:44528,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,51",,,
+933192e1-d347-414a-b391-9cfd23d4ff76,Rome,char-offset:47113,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,52",,,
+cb740c58-c343-47e7-854e-3d8ad7cf3606,Rome,char-offset:47861,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,53",,,
+7c41bb46-b274-4ccc-a370-04672c3ef9ff,Rome,char-offset:49285,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,54",,,
+87ed7fd4-5a26-43dc-b870-076f5314718c,Rome,char-offset:50298,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,54",,,
+e577ca34-e09f-44c5-8ef9-00b05f009f50,Rome,char-offset:51571,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,55",,,
+0a0fa9dc-31ad-4c78-a2f6-0a19c94b83f8,Rome,char-offset:53210,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,55",,,
+a9aa84e4-d45a-4e0e-9441-bc2a7bc00f3b,Rome,char-offset:53999,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,55",,,
+b719618c-5456-49d4-9e91-97e14c2ada58,Rome,char-offset:56048,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,56",,,
+b20c3fcb-d536-457c-b8ba-95484e2654b4,Rome,char-offset:56943,PLACE,http://pleiades.stoa.org/places/423025,"Roma|Roma, Roma|Rome",41.89262,12.4843457,"settlement,urban","2,56",,,
+46b14a99-b101-4698-beb3-8aa6b2f1a669,Romulus,char-offset:3366,PERSON,,,,,,,,,
+62eebadd-a130-4dae-a492-9c2e67633562,Romulus,char-offset:3779,PERSON,,,,,,,,,
+e223f552-8289-43b8-be90-7e9c6e5fb645,Romulus,char-offset:4269,PERSON,,,,,,,,,
+f28eb97a-57b8-4599-929f-5b5ed930a5ed,Romulus,char-offset:8541,PERSON,,,,,,,,,
+3e5168af-19fc-4762-9b61-12e4aadbc1b7,Romulus,char-offset:9589,PERSON,,,,,,,,,
+4fa79f39-8efd-4308-a35f-c05a3175b822,Romulus,char-offset:12589,PERSON,,,,,,,,,
+e2bb9862-7559-468c-8a08-a1595a6d533b,Romulus,char-offset:14735,PERSON,,,,,,,,,
+d871c65d-07af-411b-93b8-530cc36675e5,Romulus,char-offset:16379,PERSON,,,,,,,,,
+1561abb5-37c8-4b52-9af5-3564536a6eb7,Romulus,char-offset:18782,PERSON,,,,,,,,,
+5764dba2-4a95-4c97-8cb9-0b47888683e9,Romulus,char-offset:20290,PERSON,,,,,,,,,
+d192ae75-6580-4eed-a669-fe53a913f383,Romulus,char-offset:22259,PERSON,,,,,,,,,
+8c99b906-381c-4aab-b19c-406ab98f06d2,Romulus,char-offset:22626,PERSON,,,,,,,,,
+d22033ad-9d81-4ffc-8152-dcf43bad5fcd,Romulus,char-offset:24064,PERSON,,,,,,,,,
+b7b0eb38-e22a-42bd-93d4-19549a8bdb65,Romulus,char-offset:24918,PERSON,,,,,,,,,
+bdbdd834-d9a8-4201-a8a7-862f6cdb74cd,Romulus,char-offset:26675,PERSON,,,,,,,,,
+bea8943b-7f25-4b8d-a054-28bde912488b,Romulus,char-offset:27710,PERSON,,,,,,,,,
+9f920ca0-5863-4fe0-8bfd-0928df127861,Romulus,char-offset:28136,PERSON,,,,,,,,,
+b8f03e98-fc90-4f7f-b53e-d796861cec3a,Romulus,char-offset:29427,PERSON,,,,,,,,,
+df426be4-f9a5-413c-86be-749cd64d0e09,Romulus,char-offset:31251,PERSON,,,,,,,,,
+65d33ee4-4406-4a93-9526-12e7ea02244b,Romulus,char-offset:36680,PERSON,,,,,,,,,
+28d7db85-1ddf-41a1-938a-45c8b48290eb,Romulus,char-offset:42390,PERSON,,,,,,,,,
+68659916-5523-4346-83c0-452355801f33,Romulus,char-offset:45076,PERSON,,,,,,,,,
+2bd50393-f32b-4222-88bf-56011f982d87,Romulus,char-offset:46328,PERSON,,,,,,,,,
+e236ce4e-a2ff-40d2-b1c3-50c753aaa12a,Romulus,char-offset:47914,PERSON,,,,,,,,,
+dbfce2a4-7a3b-4737-b6c0-a20f7c9dfb25,Romulus,char-offset:48111,PERSON,,,,,,,,,
+7bee4e1e-d356-4601-b465-4168f1750343,Romulus,char-offset:48219,PERSON,,,,,,,,,
+79102394-7ad7-4b39-8d85-eb5453b08887,Romulus,char-offset:48288,PERSON,,,,,,,,,
+2de7ef84-c8ee-436a-b546-577440f4e255,Romulus,char-offset:51070,PERSON,,,,,,,,,
+70cd0d73-204a-42b8-90b2-8c7a794843d4,Romulus,char-offset:53659,PERSON,,,,,,,,,
+ef9f0d79-a427-4ae8-8366-3b59f0641632,Romulus,char-offset:54680,PERSON,,,,,,,,,
+940ecfff-a77b-4470-9d7b-1feae50a0ecb,Romulus,char-offset:59195,PERSON,,,,,,,,,
+ce70b622-2dc3-41f6-b3f6-7f7907aaaf3c,Romulus,char-offset:59664,PERSON,,,,,,,,,
+b52dc719-ecc7-4dec-8a49-8da4e172c149,Romulus,char-offset:62759,PERSON,,,,,,,,,
+4fdc3584-e52b-47d5-9711-b42297b9a39e,Romulus,char-offset:263,PERSON,,,,,,"2,57",,,
+deef32a6-2ebe-4251-81f4-c070b22764e3,Romulus,char-offset:10059,PERSON,,,,,,"2,62",,,
+f1d8441f-872b-4c43-8ad0-5a36a5931b64,Romulus,char-offset:10337,PERSON,,,,,,"2,62",,,
+f53db26b-b07e-4680-b8bc-acdd9fbdeb7e,Romulus,char-offset:10853,PERSON,,,,,,"2,62",,,
+50fa83a5-6b7d-4559-ab27-e71c7351f837,Romulus,char-offset:11277,PERSON,,,,,,"2,62",,,
+18cfd657-bb20-4fce-8069-fb83782c0de7,Romulus,char-offset:11702,PERSON,,,,,,"2,62",,,
+af952f22-eee3-4df9-b1ce-cca672b639b7,Romulus,char-offset:13217,PERSON,,,,,,"2,63",,,
+6225dfbf-b396-4a2e-9994-aceb326ac941,Romulus,char-offset:13950,PERSON,,,,,,"2,63",,,
+cfe07f1d-4756-4814-9faf-8811c1429647,Romulus,char-offset:14517,PERSON,,,,,,"2,63",,,
+753a5d8a-3d46-4550-a2a5-9bfc9735a45a,Romulus,char-offset:16790,PERSON,,,,,,"2,65",,,
+4a60d7da-a1e8-4b11-94b7-77bcfc0d7001,Romulus,char-offset:17350,PERSON,,,,,,"2,65",,,
+a35642b2-7491-4657-9b93-7072fb49e13f,Romulus,char-offset:17525,PERSON,,,,,,"2,65",,,
+df86e91e-808e-4d33-8bef-20a057969c57,Romulus,char-offset:17746,PERSON,,,,,,"2,65",,,
+52c2d17d-d4b4-4297-8cb7-c1ae3504dd2d,Romulus,char-offset:18207,PERSON,,,,,,"2,65",,,
+ec1c901d-7afa-4fa9-81c8-a954f7b23472,Romulus,char-offset:2180,PERSON,,,,,,"2,30",,,
+8ba3883c-3f43-41af-9f01-791bd363ee67,Romulus,char-offset:2933,PERSON,,,,,,"2,31",,,
+0e59d11e-b911-4002-8153-a5bc7fd35183,Romulus,char-offset:3534,PERSON,,,,,,"2,31",,,
+ac643acc-17f7-41b9-9d8d-8cace6e3dbd2,Romulus,char-offset:5124,PERSON,,,,,,"2,32",,,
+b5443413-7cae-48b7-92bb-487f7d9e0889,Romulus,char-offset:6208,PERSON,,,,,,"2,33",,,
+942264d6-03e2-465b-a4e0-10a1f84db7dc,Romulus,char-offset:6922,PERSON,,,,,,"2,33",,,
+de777495-d2fc-44ef-af0e-027644af40b9,Romulus,char-offset:8058,PERSON,,,,,,"2,34",,,
+09220f02-1891-41c0-a0a7-bd852ddf73ea,Romulus,char-offset:9032,PERSON,,,,,,"3,34",,,
+5c61032f-9c0d-4f73-8157-1a949e60545e,Romulus,char-offset:9338,PERSON,,,,,,"3,34",,,
+a610dd6f-21b7-42f3-a031-535202df9baf,Romulus,char-offset:9688,PERSON,,,,,,"2,34",,,
+125b1eb9-333d-4f6b-ae33-49f10f5c6865,Romulus,char-offset:12563,PERSON,,,,,,"2,35",,,
+4c784585-cf88-4f62-a4b6-87f65eecf190,Romulus,char-offset:13440,PERSON,,,,,,"2,36",,,
+1c710241-c203-43c0-bb1b-0aae5031f33c,Romulus,char-offset:15221,PERSON,,,,,,"2,37",,,
+645a9c5a-5332-47fa-8784-b4e33ce747bc,Romulus,char-offset:16747,PERSON,,,,,,"2,37",,,
+9b6c62d5-a50b-45d9-afc4-c76bb8e7e5d6,Romulus,char-offset:17366,PERSON,,,,,,"2,37",,,
+c0a50844-7e74-469f-bc23-f8477294599e,Romulus,char-offset:20356,PERSON,,,,,,"2,39",,,
+65a522a1-d864-4c71-94f1-88e700fb2ab2,Romulus,char-offset:25258,PERSON,,,,,,"2,42",,,
+1df8eeab-382e-43da-b4ca-8acc236aa38b,Romulus,char-offset:26060,PERSON,,,,,,"2,42",,,
+ddadfb7a-d2a3-4423-824c-c36be03c2df4,Romulus,char-offset:26205,PERSON,,,,,,"2,42",,,
+0a1d2aa2-74eb-4452-a98f-b3ba1464c791,Romulus,char-offset:26759,PERSON,,,,,,"2,42",,,
+ac762b58-ec3f-483b-b69b-1d53a00bd8c2,Romulus,char-offset:27340,PERSON,,,,,,"2,42",,,
+924d8339-6207-47c8-9196-c2d4c13ae835,Romulus,char-offset:27782,PERSON,,,,,,"2,43",,,
+f85831f8-983c-4d97-8137-b200ff8c4495,Romulus,char-offset:28852,PERSON,,,,,,"2,43",,,
+80544657-f48b-4a50-8636-a1cf07bc5ccb,Romulus,char-offset:34344,PERSON,,,,,,"2,46",,,
+8c66cb4c-fbed-40ab-924c-76dc1cdf090b,Romulus,char-offset:36526,PERSON,,,,,,"2,47",,,
+4f3798c1-2aba-4548-b682-02cd8a38ec3f,Romulus,char-offset:41039,PERSON,,,,,,"2,50",,,
+5eed271d-ae32-4127-a36f-97de7805220f,Romulus,char-offset:41250,PERSON,,,,,,"2,50",,,
+f424689c-ee0b-4a1a-ae68-83409804718f,Romulus,char-offset:41967,PERSON,,,,,,"2,50",,,
+e1798c82-467b-456e-9142-88453140b66c,Romulus,char-offset:43699,PERSON,,,,,,"2,51",,,
+4aab83db-60d8-4ec6-990b-3bba4af08554,Romulus,char-offset:44152,PERSON,,,,,,"2,51",,,
+ca0e8a7e-b65e-4131-8024-5c29c14cf976,Romulus,char-offset:45291,PERSON,,,,,,"2,52",,,
+214bcee3-7e78-4c8b-b8b6-b86109f707eb,Romulus,char-offset:46102,PERSON,,,,,,"2,52",,,
+e8a520b2-74b6-4460-bcb6-42ce1074de2f,Romulus,char-offset:46483,PERSON,,,,,,"2,52",,,
+290e4757-02e9-4648-8073-4dc05bdd4177,Romulus,char-offset:46781,PERSON,,,,,,"2,52",,,
+75133da1-ddc1-409d-a3e4-91614b06809b,Romulus,char-offset:47028,PERSON,,,,,,"2,52",,,
+14be810d-9c43-4799-93d0-411a25fdfc37,Romulus,char-offset:47226,PERSON,,,,,,"2,53",,,
+49bfcd7b-44d8-449a-abbc-2090ac6874dc,Romulus,char-offset:48268,PERSON,,,,,,"2,53",,,
+6ad8b2a7-42a4-4c2b-ae7c-342af4c5ed41,Romulus,char-offset:48620,PERSON,,,,,,"2,53",,,
+115e5a5e-83eb-42bd-8915-4ca9b0597fac,Romulus,char-offset:49168,PERSON,,,,,,"2,54",,,
+c3d61774-b7cf-402b-a10d-1ee73557ed12,Romulus,char-offset:49543,PERSON,,,,,,"2,54",,,
+186c5fc8-be1a-4d1b-945c-b3f17cf0258f,Romulus,char-offset:50183,PERSON,,,,,,"2,54",,,
+fba553f0-bce7-4f96-aeeb-baef9998855e,Romulus,char-offset:50784,PERSON,,,,,,"2,54",,,
+6ccf7c05-4994-44ba-a0cc-762093135714,Romulus,char-offset:51680,PERSON,,,,,,"2,55",,,
+a52d1752-b3eb-46ad-8f09-0fb969a13acc,Romulus,char-offset:53248,PERSON,,,,,,"2,55",,,
+025738db-047b-43c2-96e9-41a1a4302f0f,Romulus,char-offset:53457,PERSON,,,,,,"2,55",,,
+37c5a523-e28e-4a75-ad29-49db7bec7932,Romulus,char-offset:54221,PERSON,,,,,,"2,56",,,
+81a5563e-fca1-45dc-83ee-01e974d3b2d3,Romulus,char-offset:56925,PERSON,,,,,,"2,56",,,
+11ceb761-d311-471c-b3b8-d21dac21c05a,Sabines,char-offset:29311,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,70",,,
+18989468-5e2a-4929-ab33-d8e0cad68408,Sabines,char-offset:5025,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,32",,,
+ddb968ce-4b8f-45ba-816a-728f23287b03,Sabines,char-offset:5748,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,32",,,
+bce82c70-34ed-4fef-9c0e-7347f708d57e,Sabines,char-offset:6345,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,33",,,
+381abd2c-c177-41cb-8257-29eda318d56a,Sabines,char-offset:14402,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,36",,,
+29de744f-bc52-4153-a065-c540426754d9,Sabines,char-offset:14960,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,36",,,
+05d148cf-8915-4ad2-b956-b47081d7ace9,Sabines,char-offset:16395,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,37",,,
+886516d1-d0a8-4b8e-9e01-d463cae295c2,Sabines,char-offset:16921,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,37",,,
+c91fad9e-70de-4f2b-9be8-3afc7b2496c9,Sabines,char-offset:17554,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,38",,,
+c2ce93c8-2e36-4f72-923c-24ef918d7f15,Sabines,char-offset:18192,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,38",,,
+7e0bb8a7-e1c3-4d67-b619-2e0c89700dfe,Sabines,char-offset:18665,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,38",,,
+afc648bd-b401-48d7-a8b2-5d49278885ef,Sabines,char-offset:19189,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,38",,,
+de471b63-20a5-4dfe-bf00-4e9d9c145c37,Sabines,char-offset:19761,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,38",,,
+716399d6-9ec7-4fcb-a0f6-7fda84deb117,Sabines,char-offset:19971,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,38",,,
+3c2797cb-fdd6-45ba-aa50-b6725dc0d8b2,Sabines,char-offset:20403,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,39",,,
+8d0820dd-2053-4796-aab9-7601722d786d,Sabines,char-offset:21074,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,39",,,
+476c126a-bfed-434b-8bb9-bc87e9f66a7e,Sabines,char-offset:21289,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,39",,,
+f5b6c931-9d32-4df2-a1ee-69aa60c8f656,Sabines,char-offset:21373,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,39",,,
+18bef280-a68d-4318-9e2c-6f82aabfb214,Sabines,char-offset:21657,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,40",,,
+174d4835-8915-431d-a2c8-d947071524ee,Sabines,char-offset:22350,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,40",,,
+667cf87b-1dad-4f91-8576-27f6b857d011,Sabines,char-offset:23335,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,41",,,
+677427bf-e432-41e5-b057-75778168ab26,Sabines,char-offset:25409,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,42",,,
+ca0db1d5-2739-4f45-81ca-ddee1c1195fe,Sabines,char-offset:26242,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,42",,,
+95b42d87-6b9f-4027-9d85-a73fa0a9ee02,Sabines,char-offset:26423,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,42",,,
+2f8abc6f-6188-430e-8913-368a9712e51b,Sabines,char-offset:28612,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,43",,,
+8f1a5ddd-4844-4d94-b414-17c141975d03,Sabines,char-offset:29869,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,44",,,
+08ee116c-a72c-4309-98db-df4798ea7014,Sabines,char-offset:30623,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,44",,,
+a6f28b2d-dcf6-4e1f-b2ce-cb7e0878fa5e,Sabines,char-offset:31104,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,44",,,
+21cb867a-2670-4bc2-8a5d-39eaeeebd0ea,Sabines,char-offset:31822,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,45",,,
+19fdeb72-7661-4e72-8799-1100c88ec8f1,Sabines,char-offset:33063,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,45",,,
+149cae08-2189-4ca1-9bd7-6bf178466f18,Sabines,char-offset:34732,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,46",,,
+6cc834c4-a33a-471d-b892-aace220b7dcc,Sabines,char-offset:37492,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,48",,,
+17f1475d-0cf5-41da-b38e-1e88c3a11ab4,Sabines,char-offset:38596,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,48",,,
+32df8dcc-3c7e-490f-ab04-180a517335a2,Sabines,char-offset:38997,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,49",,,
+6895a5d9-ab91-41d5-8a82-7c8fc1ef1b08,Sabines,char-offset:39318,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,49",,,
+18320bfc-0488-4ee3-a9e9-fde73c9ee98f,Sabines,char-offset:39907,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,49",,,
+4133f944-d835-4406-b329-b9a3ccc4a3f5,Sabines,char-offset:40794,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,49",,,
+61e0a748-3064-4d85-8d81-c8586b3648a0,Sabines,char-offset:40865,PEOPLE,http://pleiades.stoa.org/places/413291,Sabini,42.25,12.75,people,"2,49",,,
+65f5290d-05bc-434f-a841-97d108465b6c,Sabus,char-offset:39072,PERSON,,,,,,"2,49",,,
+b1dfc3bf-26d7-4f9f-9157-6275a21fadfb,Sacred Way,char-offset:42074,PLACE,http://pleiades.stoa.org/places/580006,"Lakiadai|Lakiadai, Sacred Way, E Kephisos [VI - city - 2(3)]",37.993384,23.699604,settlement,"2,50",Ally,,
+10ce2bed-1758-4c98-bed5-e9065a675eb7,Salii,char-offset:28831,PERSON,,,,,,"2,70",,,
+417e5d34-94c7-40b8-9623-2eb4296aec5d,Salii,char-offset:28964,PERSON,,,,,,"2,70",,,
+35d47c6e-9b0f-47b7-bf65-5126aa2e1b0c,Salii,char-offset:29058,PERSON,,,,,,"2,70",,,
+8fd5d301-dee1-40ad-be8f-fc3a160fd83b,Salii,char-offset:29084,PERSON,,,,,,"2,70",,,
+34f8f033-3e32-4540-80e5-c767092df68d,Salii,char-offset:30497,PERSON,,,,,,"2,70",,,
+bc90a7e8-f9e7-42b4-9dd8-dc2b9b7f1093,Salii,char-offset:30667,PERSON,,,,,,"2,70",,,
+daeaeb67-8d0b-48c7-a09b-0e8753a92cfb,Salii,char-offset:30840,PERSON,,,,,,"2,70",,,
+84474f1a-2d45-4600-8311-8e8452c1e79b,Salii,char-offset:33201,PERSON,,,,,,"2,71",,,
+0815d7fc-31d3-483b-842a-973c8cafd3f4,Salii,char-offset:33236,PERSON,,,,,,"2,71",,,
+d00cf04e-1548-48ff-b6a7-33913c87ef52,Salii,char-offset:33359,PERSON,,,,,,"2,71",,,
+48862765-0446-4d03-8259-b61f559f331f,Salii Collini,char-offset:29123,PERSON,,,,,,"2,70",,,
+234a8a98-4389-42d3-ac79-3b4a025cac20,Samian,char-offset:4969,PEOPLE,,,,,,"2,59",,,
+2a6689dd-d2ea-43dc-a138-c9eeb0508c84,Samian,char-offset:5627,PEOPLE,,,,,,"2,59",,,
+91735256-d0b5-4177-9c75-4b001afda498,Sancus,char-offset:39089,PERSON,,,,,,"2,49",,,
+fa1a60f1-8e90-46f1-b0f7-86670add2bc5,Sancus,char-offset:39137,PERSON,,,,,,"2,49",,,
+981ccd7c-15fa-41be-b688-37234be7c8d0,Sardinia,char-offset:35706,PLACE,http://pleiades.stoa.org/places/472014,Sardinia (island),40.06802462,8.895951167,island,"2,17",,,YES
+b1189d9d-acb4-488e-b5a9-6cb26550e88c,Saturn,char-offset:2006,PERSON,,,,,,"2,1",,,NO
+ad7875fb-bd4d-44ee-bb60-209234b154a4,Saturn,char-offset:38623,PERSON,,,,,,,,,
+560c202f-064d-4645-9e6e-348cfa9159ca,Saturn,char-offset:38722,PERSON,,,,,,,,,
+2cd742f5-eae7-4d82-a6e0-7ad140aaa037,Sicel,char-offset:485,PEOPLE,http://pleiades.stoa.org/places/462492,Sicilia (island),37.53667612,14.08648465,island,"2,1",,,YES
+c6334e07-eb71-47a6-9c15-b4bf1ab3b968,Sicels,char-offset:298,PEOPLE,http://pleiades.stoa.org/places/462492,Sicilia (island),37.53667612,14.08648465,island,"2,1",,,YES
+c710ae1d-bd15-43e5-aef7-c66390cda5ee,Sicily,char-offset:35695,PLACE,http://pleiades.stoa.org/places/462492,Sicilia (island),37.53667612,14.08648465,island,"2,17",,,YES
+c49120cc-693f-4b0a-971e-7a03b8c04752,Sicily,char-offset:20983,PLACE,http://pleiades.stoa.org/places/462492,Sicilia (island),37.53667612,14.08648465,island,"2,66",,,
+98d3a551-f7d0-47d1-9a9a-c7e991f5f2aa,Sicily,char-offset:21287,PLACE,http://pleiades.stoa.org/places/462492,Sicilia (island),37.53667612,14.08648465,island,"2,66",,,
+41884d88-79b0-4809-8264-c28079c37eec,Solonium,char-offset:16034,PLACE,http://pleiades.stoa.org/places/438838,Solonium/Solonius Ager,,,"unlocated,region","2,37",Enemy,,
+9999f095-eee3-4646-a156-6272a5a4514f,Spain,char-offset:35652,PLACE,http://sws.geonames.org/2510769,Spain,40.22822936,-3.639066965,,"2,17",,,YES
+cf7a86b8-4cc9-4df7-918f-4440ec1ea3d0,Sparta,char-offset:46540,PLACE,http://pleiades.stoa.org/places/570685,"Sparta|Sparta/Sparte, Sparti",37.08149,22.42454,"theatre,temple,settlement,temple-2","2,23",,,YES
+f651054e-2f73-4672-9bfb-a3663baf28b7,Sparta,char-offset:40084,PLACE,http://pleiades.stoa.org/places/570685,"Sparta|Sparta/Sparte, Sparti",37.08149,22.42454,"theatre,temple,settlement,temple-2","2,49",,,
+a80f1064-8122-4148-8102-5714801740e9,Spartans,char-offset:35179,PEOPLE,http://pleiades.stoa.org/places/570685,"Sparta|Sparta/Sparte, Sparti",37.08149,22.42454,"theatre,temple,settlement,temple-2","2,17",,,YES
+b42b82ad-9470-4c34-b866-b917ec8bdf4e,Spurius Carvilius,char-offset:54317,PERSON,,,,,,,,,
+4f25cc6c-3dc6-43f8-9b35-c9ec20c8a2f6,Tallus,char-offset:35256,PERSON,,,,,,"2,46",,,
+f2c5afe2-1859-4e41-8128-fbfa12ff732a,Tarentum,char-offset:707,PLACE,http://pleiades.stoa.org/places/442810,"Taras/Tarentum/Neptunia|Taras/Tarentum/Neptunia, Taranto|Taranto",40.476034,17.228553,"settlement,temple-2","2,1",,,YES
+6addf7a4-01c8-4162-a9bd-337a3871fd47,Tarpeia,char-offset:20325,PERSON,,,,,,"2,39",,,
+1a758f36-7a60-42e9-9025-395cd399c4e3,Tarpeia,char-offset:20835,PERSON,,,,,,"2,39",,,
+051bf948-b6eb-4dec-9b23-df5607f907d5,Tarpeia,char-offset:21479,PERSON,,,,,,"2,39",,,
+cc2a358d-4aa0-45eb-97db-85f83aa6d23e,Tarpeia,char-offset:22156,PERSON,,,,,,"2,40",,,
+ee1a2498-39e1-470b-adbe-2e46608efd34,Tartarus,char-offset:38776,PERSON,,,,,,,,,
+8740d99a-1fe5-4449-9e37-687d78b0ff42,Tatius,char-offset:10866,PERSON,,,,,,"2,62",,,
+c7ff18f1-6497-4739-8e03-ff37c85cac35,Tatius,char-offset:19803,PERSON,,,,,,"2,38",,,
+dd88693b-6a1b-46b6-b98c-0ff2b9b43e48,Tatius,char-offset:21799,PERSON,,,,,,"2,40",,,
+3b260be6-56ee-4ed6-be73-8a33f1d1c26f,Tatius,char-offset:34356,PERSON,,,,,,"2,46",,,
+ee77c2b0-9bdd-4ec6-8085-19772fa00ddc,Tatius,char-offset:34689,PERSON,,,,,,"2,46",,,
+a1056b47-e2ca-49fa-9f3b-4b6a8701c895,Tatius,char-offset:35068,PERSON,,,,,,"2,46",,,
+ae29139c-59b1-4c3e-9807-6362d3605f47,Tatius,char-offset:37136,PERSON,,,,,,"2,48",,,
+805f99dd-311f-4e13-960d-b8ee579aa517,Tatius,char-offset:41051,PERSON,,,,,,"2,50",,,
+41787995-bca7-4e84-a161-c5534dd279d0,Tatius,char-offset:42195,PERSON,,,,,,"2,50",,,
+7fe8d9bd-88b6-4fae-b0ad-573bd52743d8,Tatius,char-offset:43713,PERSON,,,,,,"2,51",,,
+ffa012e8-414b-4d42-8d05-727fed6baf67,Tatius,char-offset:43873,PERSON,,,,,,"2,51",,,
+db2a31f4-c449-46c5-8377-e1f0204c4111,Tatius,char-offset:45434,PERSON,,,,,,"2,52",,,
+62607da5-e523-4858-8c39-67c3d6f7d182,Tatius,char-offset:45624,PERSON,,,,,,"2,52",,,
+95632cf6-9272-4b1c-9f01-5a0c915cae00,Tatius,char-offset:46988,PERSON,,,,,,"2,52",,,
+cd3c566a-12d7-41d9-a371-8d5fe76f71cd,Tatius,char-offset:47548,PERSON,,,,,,"2,53",,,
+418da103-9566-4936-a3eb-ca61eab6578a,Terentius Varro,char-offset:42911,PERSON,,,,,,,,,
+dc2fcf27-5505-426c-8c0e-1f46f252e7b1,Terentius Varro,char-offset:36449,PERSON,,,,,,"2,47",,,
+c0b1fdac-5c9d-43ac-86e3-4262f28612a0,Terentius Varro,char-offset:38652,PERSON,,,,,,"2,48",,,
+fb5aee29-a018-4892-8ab8-f518fb7fffe9,Testruna,char-offset:39253,PLACE,http://pleiades.stoa.org/places/416870,Testruna,,,unlocated,"2,49",,,
+c6fa55b4-198c-4d3e-a17a-1bd10e372bb9,Thebans,char-offset:34827,PEOPLE,http://pleiades.stoa.org/places/541138,"Thebai/Thebae|Kabeirion|Kabeirion, Kabeirion|Thebai, Thiva",38.318092,23.255096,"sanctuary,settlement","2,17",,,YES
+7cc744f0-7a72-4d17-8217-28f9fd2c1bcd,Thebans,char-offset:35394,PEOPLE,http://pleiades.stoa.org/places/541138,"Thebai/Thebae|Kabeirion|Kabeirion, Kabeirion|Thebai, Thiva",38.318092,23.255096,"sanctuary,settlement","2,17",,,YES
+441435fa-bada-4184-9356-0d33d11b60b3,Themis,char-offset:1544,PERSON,,,,,,"2,1",,,NO
+c38f07b0-f056-4cb3-a160-a193fcde76d3,Thessalians,char-offset:19763,PEOPLE,http://sws.geonames.org/6697809,Thessaly,39.51468942,22.20440701,,"2,9",,,YES
+72125945-962c-431e-b7c5-ea48cfcf3480,Thessalians,char-offset:20179,PEOPLE,http://sws.geonames.org/6697809,Thessaly,39.51468942,22.20440701,,"2,9",,,YES
+67177ff1-993e-4964-9051-4143d2b2d62b,Thessaly,char-offset:1347,PLACE,http://sws.geonames.org/6697809,Thessaly,39.51468942,22.20440701,,"2,1",,,YES
+a478d4e0-db20-42fb-aa73-9ae170c15300,Tiber,char-offset:28101,PLACE,http://pleiades.stoa.org/places/423080,Tiberis (river),42.7082004,12.36927719,river,"2,69",,,
+20c55d7e-821b-44c3-b10c-e8a8e6f40d78,Tiber,char-offset:52016,PLACE,http://pleiades.stoa.org/places/423080,Tiberis (river),42.7082004,12.36927719,river,"2,55",,,
+47bb557f-36f6-4195-8e98-a76d62906248,Tiber,char-offset:53563,PLACE,http://pleiades.stoa.org/places/423080,Tiberis (river),42.7082004,12.36927719,river,"2,55",,,
+bd226ef4-3541-4d4e-8819-1e313acd6db3,Troezen,char-offset:38696,PLACE,http://pleiades.stoa.org/places/570756,"Troizen|Troizen, Damala",37.50303,23.34845,settlement,"2,49",,,
+23186e8a-4073-48bf-9620-8da4db272ad7,Trojan,char-offset:2249,PEOPLE,http://pleiades.stoa.org/places/550595,"Ilium/Troia|Ilium/Troia, Hisarlık",39.9577,26.23873,settlement,"2,2",,,YES
+24ddda8f-4856-4e64-8b9b-92dbbebb19f8,Trojan,char-offset:2732,PEOPLE,http://pleiades.stoa.org/places/550595,"Ilium/Troia|Ilium/Troia, Hisarlık",39.9577,26.23873,settlement,"2,2",,,YES
+538536b8-59e4-4880-b70a-105032a71470,Troy,char-offset:2828,PLACE,http://pleiades.stoa.org/places/550595,"Ilium/Troia|Ilium/Troia, Hisarlık",39.9577,26.23873,settlement,"2,2",,,YES
+01665b01-d72d-4785-9363-e0f898826fae,Troy,char-offset:3265,PLACE,http://pleiades.stoa.org/places/550595,"Ilium/Troia|Ilium/Troia, Hisarlık",39.9577,26.23873,settlement,"2,2",,,YES
+7418b858-1b2a-4c2c-8593-70508bad2667,Tuccia,char-offset:27721,PERSON,,,,,,"2,69",,,
+a7de20c9-2f52-465a-be2e-ad7ef2d4eb55,Tullus Hostilius,char-offset:48071,PERSON,,,,,,,,,
+b204398f-6f18-416a-9bc9-e62e9ba518ac,Tyrrhenian,char-offset:107,PLACE,http://pleiades.stoa.org/places/1356,Tyrrhenum/Inferum Mare,41.66419815,12.05473186,water-open,"2,1",,,YES
+813f0ade-7fe5-4e2e-8792-811f36d0cddc,Tyrrhenian,char-offset:17455,PLACE,http://pleiades.stoa.org/places/1356,Tyrrhenum/Inferum Mare,41.66419815,12.05473186,water-open,"2,37",,,
+ea255bcb-c83d-45b3-891d-c38a5f7b6f60,Tyrrhenian,char-offset:25301,PLACE,http://pleiades.stoa.org/places/1356,Tyrrhenum/Inferum Mare,41.66419815,12.05473186,water-open,"2,42",Ally,,
+acc15a86-5a43-4241-8380-696d57860311,Tyrrhenian,char-offset:50244,PLACE,http://pleiades.stoa.org/places/1356,Tyrrhenum/Inferum Mare,41.66419815,12.05473186,water-open,"2,54",,,
+1c2d7edb-daf4-4ea0-bee6-545057a0794f,Tyrrhenian Sea,char-offset:39811,PLACE,http://pleiades.stoa.org/places/1356,Tyrrhenum/Inferum Mare,41.66419815,12.05473186,water-open,"2,49",,,
+fddd3210-39bf-455a-bb2c-c0dc943a4e01,Tyrrhenians,char-offset:10566,PEOPLE,http://pleiades.stoa.org/places/1356,Tyrrhenum/Inferum Mare,41.66419815,12.05473186,water-open,"2,5",,,YES
+330c9de0-1419-4747-a5f0-32f708331a5f,Tyrrhenians,char-offset:11950,PEOPLE,http://pleiades.stoa.org/places/1356,Tyrrhenum/Inferum Mare,41.66419815,12.05473186,water-open,"2,5",,,YES
+6625bde9-cb05-480f-a985-3f373bb2ac16,Tyrrhenians,char-offset:12123,PEOPLE,http://pleiades.stoa.org/places/1356,Tyrrhenum/Inferum Mare,41.66419815,12.05473186,water-open,"2,5",,,YES
+b350cfc3-da16-40c9-94cc-b1fff7cb476e,Tyrrhenians,char-offset:44795,PEOPLE,http://pleiades.stoa.org/places/1356,Tyrrhenum/Inferum Mare,41.66419815,12.05473186,water-open,"2,22",,,YES
+591936ed-f225-468d-8292-e445f36b5ea5,Valerius Antias,char-offset:27421,PERSON,,,,,,,,,
+61b1f9d8-df92-4a09-9fff-c4bba1545135,Veii,char-offset:50280,PLACE,http://pleiades.stoa.org/places/423116,"Veii|Veii, Veio, Roma",42.02273,12.40191,"settlement,urban","2,54",Enemy,,
+47b0c105-2518-4fbb-95c6-d65bce64ebbf,Volusus Valerius,char-offset:35235,PERSON,,,,,,"2,46",,,
+6c1d7f21-13d3-48d0-ab78-5f55d3d93d2b,Zeus,char-offset:9182,PERSON,,,,,,"2,61",,,
+443bca91-18cd-4d61-a844-e6170132e941,Zeus,char-offset:9285,PERSON,,,,,,"2,61",,,
+e39951eb-d59c-4178-86f5-75b0e1c9043d,Zeus,char-offset:9460,PERSON,,,,,,"2,61",,,
